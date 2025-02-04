@@ -4,4 +4,5 @@
 Voici une première modification en ligne
 
 ## mise-à-jour locale
-modification faite sur ma machine locale.
+voici une nouvelle modif 
+cette fois-ci avec une supression d'une ligne 
